@@ -6,10 +6,10 @@
 
 <script>
 export default {
-  name: 'HelloWorld',
+  name: 'BookList',
   data() {
     return {
-      title: 'Bleachers',
+      title: 'All Books',
     };
   },
 };
